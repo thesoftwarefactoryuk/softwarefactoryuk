@@ -1,0 +1,79 @@
+{
+	"ImportPath": "softwarefactoryuk",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Rev": "215affda49addc4c8ef7e2534915df2c8c35c6cd"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Rev": "47e8f450ef38c857cdd922ec08862ca9d65a1c6d"
+		},
+		{
+			"ImportPath": "github.com/gorilla/pat",
+			"Rev": "ae2e162c4b2ae96aa66b596b2c18f17834299ed0"
+		},
+		{
+			"ImportPath": "github.com/gorilla/securecookie",
+			"Rev": "8e98dd730fc43f1383f19615db6f2e702c9738e8"
+		},
+		{
+			"ImportPath": "github.com/gorilla/sessions",
+			"Rev": "f61c3ec2cf65d69e7efedfd4d060fe128882c951"
+		},
+		{
+			"ImportPath": "github.com/markbates/goth",
+			"Rev": "3440a6041e326abf9a899302b72d48a80dd051a2"
+		},
+		{
+			"ImportPath": "github.com/markbates/goth/gothic",
+			"Rev": "3440a6041e326abf9a899302b72d48a80dd051a2"
+		},
+		{
+			"ImportPath": "github.com/markbates/goth/providers/facebook",
+			"Rev": "3440a6041e326abf9a899302b72d48a80dd051a2"
+		},
+		{
+			"ImportPath": "github.com/markbates/goth/providers/github",
+			"Rev": "3440a6041e326abf9a899302b72d48a80dd051a2"
+		},
+		{
+			"ImportPath": "github.com/markbates/goth/providers/gplus",
+			"Rev": "3440a6041e326abf9a899302b72d48a80dd051a2"
+		},
+		{
+			"ImportPath": "github.com/markbates/goth/providers/lastfm",
+			"Rev": "3440a6041e326abf9a899302b72d48a80dd051a2"
+		},
+		{
+			"ImportPath": "github.com/markbates/goth/providers/linkedin",
+			"Rev": "3440a6041e326abf9a899302b72d48a80dd051a2"
+		},
+		{
+			"ImportPath": "github.com/markbates/goth/providers/spotify",
+			"Rev": "3440a6041e326abf9a899302b72d48a80dd051a2"
+		},
+		{
+			"ImportPath": "github.com/markbates/goth/providers/twitter",
+			"Rev": "3440a6041e326abf9a899302b72d48a80dd051a2"
+		},
+		{
+			"ImportPath": "github.com/mrjones/oauth",
+			"Rev": "ce4e16c43ec593b54ca3568b43ae89fe161f4c9e"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "a74a0672349d0bb67e7d25f8e88944019c98a73b"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "b5adcc2dcdf009d0391547edc6ecbaff889f5bb9"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "b5adcc2dcdf009d0391547edc6ecbaff889f5bb9"
+		}
+	]
+}
